@@ -11,4 +11,4 @@
 
 1. первая домашка - `exercises_1.ipynb`
 2. вторая домашка - `numpy_exercises_part1.ipynb`
-3. третья домашка - `numpy_exercises_part1.ipynb`
+3. третья домашка - `numpy_exercises_part2.ipynb`

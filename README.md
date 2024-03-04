@@ -3,7 +3,7 @@
 ## Lectures
 
 1. лекция про базовые конструкции языка `python` - `BasicTypes.ipynb` \
-2. лекция про `numpy, pandas, matplotlib` - `hw-01.ipynb`
+2. лекция про `numpy, pandas, matplotlib` - `week-01.ipynb`
 
 ---
 

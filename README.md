@@ -13,3 +13,4 @@
 - вторая домашка - `numpy_exercises_part1.ipynb`
 - третья домашка - `numpy_exercises_part2.ipynb`
 - четвертая домашка - `hw-01.ipynb`
+- пятая (последняя) домашка - `ml1.ipynb` (файл `HousingData.csv`)

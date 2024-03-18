@@ -4,6 +4,7 @@
 
 - лекция про базовые конструкции языка `python` - `BasicTypes.ipynb`
 - лекция про `numpy, pandas, matplotlib` - `week-01.ipynb`
+- лекция про линейные модели - `https://docs.google.com/presentation/d/1Pt2hG3abUTU-oVa2jvG16sEPR6ISDLPqaJnVM9v8XFw/edit#slide=id.p`
 
 ---
 
